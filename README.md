@@ -124,8 +124,14 @@ Full details in the report: `reports/AC_Relatorio_Miguel_Ruben.pdf`
 
 ---
 
-## Report
-Full details and results can be found in the [project report](reports/Project_Report.pdf).
+## 📄 Report
+The final report can be accessed at the following link (Dropbox):  
+[📑 Report.pdf](https://www.dropbox.com/scl/fi/6hl6vi5mtxefozfoofra9/Report.pdf?rlkey=t094k5x0mdp9k7njh39l717xu&st=8xa68wkz&dl=0)
+
+⚠️ Access is restricted → please request access if needed.
+
+--- 
+
 ## Authors
 - Miguel Cruz
 - Rúben Castanheira
