@@ -82,7 +82,6 @@ pip install -r requirements.txt
 1) Open the notebook `Project/AC_Project.ipynb` in Colab
 2) Upload `predictive_maintenance.csv` (ou altera o caminho no notebook)
 3) Run all cells
-```
 
 ---
 
