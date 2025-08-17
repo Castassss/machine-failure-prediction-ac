@@ -43,8 +43,6 @@ The project expects a dataset with:
 - `Target` → failure vs no failure (binary)  
 - `Failure_Type` → type of failure (multi-class)  
 
-*(column names may change depending on the dataset)*
-
 ---
 
 ## Requirements
