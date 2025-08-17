@@ -103,7 +103,7 @@ pip install -r requirements.txt
 - Main metrics: F1-score and confusion matrix  
 - Check trade-off between False Negatives (FN) and False Positives (FP)  
 
-Full details in the report: `reports/AC_Relatorio_Miguel_Ruben.pdf`
+Full details in the report
 
 ---
 
