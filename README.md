@@ -64,29 +64,24 @@ pip install -r requirements.txt
 
 ---
 
-## How to Run
-```bash
-# 1) Create virtual environment (optional)
-python -m venv .venv
-source .venv/bin/activate    # Windows: .venv\Scripts\activate
+### Option A) Run locally (Jupyter)
+1) Create and activate a virtual environment (optional)
+   python -m venv .venv
+   source .venv/bin/activate    # Windows: .venv\Scripts\activate
 
-# 2) Install dependencies
-pip install -r requirements.txt
+2) Install packages
+   pip install numpy pandas scikit-learn imbalanced-learn matplotlib seaborn tensorflow notebook
 
-# 3) Place dataset inside data/
-#    Example: data/predictive_maintenance.csv
+3) Start Jupyter
+   jupyter notebook
 
-# 4) Preprocess
-python src/preprocess.py --input data/predictive_maintenance.csv --out data/clean.parquet
+4) Open and run:
+   Project/AC_Project.ipynb
 
-# 5) Train binary classifier
-python src/train_binary.py --data data/clean.parquet --out reports/binary
-
-# 6) Train multi-class classifier
-python src/train_multiclass.py --data data/clean.parquet --out reports/multiclass
-
-# 7) Evaluate results
-python src/evaluate.py --runs reports/binary reports/multiclass --out reports/summary
+### Option B) Google Colab
+1) Open the notebook `Project/AC_Project.ipynb` in Colab
+2) Upload `predictive_maintenance.csv` (ou altera o caminho no notebook)
+3) Run all cells
 ```
 
 ---
