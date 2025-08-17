@@ -1,4 +1,4 @@
-# machine-failure-prediction2
+# machine-failure-prediction
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Language](https://img.shields.io/badge/language-Python-blue)
 ![Framework](https://img.shields.io/badge/framework-TensorFlow-orange)
